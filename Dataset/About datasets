@@ -10,3 +10,5 @@ The US trade in goods with China data is from the website of United States Censu
 The monthly GDP and CPI data is referred to YCHARTS’ website. 
 
 And the unemployment rate data comes from the website of Bureau of Labor Statistics.
+
+Dataset.csv and Dataset1.csv files are generated from the ipynb file which could be further used in RStudio to do further analysis and build the regression models.
