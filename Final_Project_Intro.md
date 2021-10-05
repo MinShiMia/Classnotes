@@ -1,6 +1,6 @@
 # EPPS 7V81 Advanced Data Programming_Final Project
 
-This is the web page to show my final project for course EPPS 7V81.
+This is a file introducing my final project for course EPPS 7V81. 
 
 In this project, I will explore the impact of the US-China trade war on US economy. This paper is formulated as a data science 
 research using the data programming skills and modeling methods I have learned in classes.
@@ -19,3 +19,4 @@ The variables are as follows:
 Independent Variables -- US Trade Tariff, China Trade Tariff
 Dependent Variables -- US International Exports in Goods and Services, US International Imports in Goods and Services, US International Trade Balance in Goods and Services, US Exports with China, US Imports with China, US Trade Balance with China, US Gross Domestic Product (GDP), US Unemployment Rate, and US Consumer Price Index (CPI).
 
+Please find more supplementary files in the folder named Final Project.
