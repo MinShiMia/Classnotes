@@ -28,5 +28,3 @@ Also, you can [get the PDF](https://github.com/MinShiMia/MinShiMia.github.io/blo
 Also, you can [get the PDF](https://github.com/MinShiMia/MinShiMia.github.io/blob/master/_posts/China_US_tweets_infor.pdf) directly. 
 
 Thanks!
-
-![image](https://user-images.githubusercontent.com/65604919/135943631-35dfd893-4c76-4412-b7bc-98c955a83012.png)
