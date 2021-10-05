@@ -19,4 +19,12 @@ The variables are as follows:
 Independent Variables -- US Trade Tariff, China Trade Tariff
 Dependent Variables -- US International Exports in Goods and Services, US International Imports in Goods and Services, US International Trade Balance in Goods and Services, US Exports with China, US Imports with China, US Trade Balance with China, US Gross Domestic Product (GDP), US Unemployment Rate, and US Consumer Price Index (CPI).
 
-Please find more supplementary files in the folder named Final Project.
+Please find the R and python code by the link below:
+[EPPS 7V81 Final Project R Code](https://github.com/MinShiMia/EPPS-7V81-Advanced-Data-Programming/blob/27ae2ce5b107fc63fc59864bd8c8f21cb875e66a/Final_Projects/EPPS%207V81%20R%20Code.%20Min_Shi.R)
+
+[EPPS 7V81 Final Project Python Code](https://github.com/MinShiMia/EPPS-7V81-Advanced-Data-Programming/blob/27ae2ce5b107fc63fc59864bd8c8f21cb875e66a/Final_Projects/EPPS%207V81%20Python%20code.%20Min_Shi.ipynb)
+
+You also could find the datasets I have used under the folder with the directory EPPS-7V81-Advanced-Data-Programming/Final_Projects/Datasets/, and here is the intro of the datasets:
+[Final Project Datasets](https://github.com/MinShiMia/EPPS-7V81-Advanced-Data-Programming/blob/27ae2ce5b107fc63fc59864bd8c8f21cb875e66a/Final_Projects/Datasets/About%20datasets.txt)
+
+
