@@ -35,5 +35,3 @@ and mentions. You could find my R code for reference [here](https://github.com/M
 
 Also, you are welcomed to talk with me if you have any questions with my code.
 Thanks!
-
-![image](https://user-images.githubusercontent.com/65604919/135943718-fcbb3a13-1c18-4ba6-8a2e-1deed6838b6a.png)
