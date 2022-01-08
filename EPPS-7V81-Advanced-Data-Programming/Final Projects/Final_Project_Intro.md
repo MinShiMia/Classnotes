@@ -19,4 +19,4 @@ The variables are as follows:
 Independent Variables -- US Trade Tariff, China Trade Tariff
 Dependent Variables -- US International Exports in Goods and Services, US International Imports in Goods and Services, US International Trade Balance in Goods and Services, US Exports with China, US Imports with China, US Trade Balance with China, US Gross Domestic Product (GDP), US Unemployment Rate, and US Consumer Price Index (CPI).
 
-Please find more supplementary files in the folder named Final Project.
+Please find more supplementary files under the same folder named Final Project.
