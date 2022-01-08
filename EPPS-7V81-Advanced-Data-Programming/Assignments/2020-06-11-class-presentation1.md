@@ -18,13 +18,13 @@ II. Non-API Method(the data is about two topics: "realDonaldTrump" and "China-U.
 ![images2](https://minshimia.github.io/images/realDonaldTrump2.png)
 ![images3](https://minshimia.github.io/images/realDonaldTrump3.png)
 
-Also, you can [get the PDF](https://github.com/MinShiMia/MinShiMia.github.io/blob/master/_posts/realDonaldTrumpTweetsInfor.pdf) directly. 
+Also, you can [get the PDF](https://github.com/MinShiMia/Other-Course-Projects/blob/194956fc3114df0417ae03fe8cce1a823be57d71/EPPS-7V81-Advanced-Data-Programming/Assignments/realDonaldTrumpTweetsInfor.pdf) directly. 
 
 2. The results about the topic "China-U.S. relations" are also interesting which could be explored here: 
 ![images4](https://minshimia.github.io/images/ChinaUS1.png)
 ![images5](https://minshimia.github.io/images/ChinaUS2.png)
 ![images6](https://minshimia.github.io/images/ChinaUS3.png)
 
-Also, you can [get the PDF](https://github.com/MinShiMia/MinShiMia.github.io/blob/master/_posts/China_US_tweets_infor.pdf) directly. 
+Also, you can [get the PDF](https://github.com/MinShiMia/Other-Course-Projects/blob/194956fc3114df0417ae03fe8cce1a823be57d71/EPPS-7V81-Advanced-Data-Programming/Assignments/China_US_tweets_infor.pdf) directly. 
 
 Thanks!
