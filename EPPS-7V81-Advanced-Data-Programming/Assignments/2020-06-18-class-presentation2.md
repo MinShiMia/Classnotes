@@ -20,10 +20,10 @@ II. Non-API Method
 
 1. Data and method to collect the data: The data is gained via python package "GetOldTweets3". It is the historical twitter data about "Trump and
 "China-U.S. Trade War" from Jan. 2017 to June 2020. You could get the data file [here](
-https://raw.githubusercontent.com/MinShiMia/MinShiMia.github.io/master/_posts/Trump-U.S.-China%20trade%20war.csv).
+https://github.com/MinShiMia/Other-Course-Projects/blob/fde3d395e5cc48d1e02d23fc8b9f892c01e3f795/EPPS-7V81-Advanced-Data-Programming/Assignments/Trump-U.S.-China%20trade%20war.csv).
 
 2. The method and code to analyze the data: I used Rstudio and several packages to get the plots for the frequency of tweets, retweets, replies, favorites,
-and mentions. You could find my R code for reference [here](https://github.com/MinShiMia/MinShiMia.github.io/blob/master/_posts/Exercise%202_visualize%20the%20data.R).
+and mentions. You could find my R code for reference [here](https://github.com/MinShiMia/Other-Course-Projects/blob/fde3d395e5cc48d1e02d23fc8b9f892c01e3f795/EPPS-7V81-Advanced-Data-Programming/Assignments/Exercise%202_visualize%20the%20data.R).
 
 
 3. The results are shown below:
